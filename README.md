@@ -23,7 +23,8 @@ Input_image:
 ![Sample Clothing Item](1_865.jpg)
 
 Output_image
-![Sample Clothing Item](1_865.jpg)
+
+![Sample Clothing Item](output_image.png)
 
 ## Methodology
 
