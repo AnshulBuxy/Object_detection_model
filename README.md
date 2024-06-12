@@ -20,9 +20,10 @@ This project leverages the YOLO (You Only Look Once) architecture for object det
 ## Results
 Input_image:
 
-![Sample Clothing Item](images/example.jpg)
+![Sample Clothing Item](1_865.jpg)
 
-
+Output_image
+![Sample Clothing Item](1_865.jpg)
 
 ## Methodology
 
