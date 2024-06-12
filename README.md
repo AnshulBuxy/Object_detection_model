@@ -18,7 +18,11 @@ This project leverages the YOLO (You Only Look Once) architecture for object det
 - **Customizable**: Fine-tune the model on custom datasets for specific applications.
 
 ## Results
-**View Results**: The results will be saved and can be viewed in the specified output directory.
+Input_image:
+
+![Sample Clothing Item](images/example.jpg)
+
+
 
 ## Methodology
 
